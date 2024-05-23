@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.1.5.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AMERICA 2">
+    <display-name lang="es">AMERICA 2</display-name>
+    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
+    <url>http://www.avcsa.com.ar</url>
+  </channel>
+  <channel id="AMERICA 24">
+    <display-name lang="es">AMERICA 24</display-name>
+    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
+    <url>http://www.avcsa.com.ar</url>
+  </channel>
+  <channel id="DIRECTV(DTV)(101)">
+    <display-name lang="es">DIRECTV(DTV)(101)</display-name>
+    <url>http://www.directv.com.ar</url>
+  </channel>
+  <channel id="América TV (ARG)(AME2)(120)">
+    <display-name lang="es">América TV (ARG)(AME2)(120)</display-name>
+    <url>http://www.directv.com.ar</url>
+  </channel>
+  <channel id="La TV Pública (ARG)(CAN7)(121)">
+    <display-name lang="es">La TV Pública (ARG)(CAN7)(121)</display-name>
+    <url>http://www.directv.com.ar</url>
+  </channel>
+  <channel id="Canal 9 (ARG)(CAN9)(122)">
+    <display-name lang="es">Canal 9 (ARG)(CAN9)(122)</display-name>
+    <url>http://www.directv.com.ar</url>
+  </channel>
+  <channel id="Telefe (ARG)(TF11)(123)">
+    <display-name lang="es">Telefe (ARG)(TF11)(123)</display-name>
+    <url>http://www.directv.com.ar</url>
+  </channel>
+  <channel id="Telefe HD (ARG)(TF11HD)(123)">
+    <display-name lang="es">Telefe HD (ARG)(TF11HD)(123)</display-name>
+    <url>http://www.directv.com.ar</url>
+  </channel>
+  <channel id="El Trece (ARG)(AR13)(124)">
+    <display-name lang="es">El Trece (ARG)(AR13)(124)</display-name>
+    <url>http://www.directv.com.ar</url>
+  </channel>
+  <channel id="El Trece HD (ARG)(AR13HD)(124)">
+    <display-name lang="es">El Trece HD (ARG)(AR13HD)(124)</display-name>
+    <url>http://www.directv.com.ar</url>
+  </channel>
+  <channel id="CANAL 9(C9)(131)">
+    <display-name lang="es">CANAL 9(C9)(131)</display-name>
+    <url>http://www.directv.com.ar</url>
+  </channel>
+  <channel id="STAR Channel(STAR)(204)">
+    <display-name lang="es">STAR Channel(STAR)(204)</display-name>
+    <url>http://www.directv.com.ar</url>
+  </channel>
+  <channel id="STAR Channel HD(STAR)(204)">
+    <display-name lang="es">STAR Channel HD(STAR)(204)</display-name>
+    <url>http://www.directv.com.ar</url>
+  </channel>
+  <channel id="Warner Channel(WTV)(206)">
+    <display-name lang="es">Warner Channel(WTV)(206)</display-name>
+    <url>http://www.directv.com.ar</url>
+  </channel>
+  <channel id="A&amp;E HD(A&amp;EHD)(207)">
+    <display-name lang="es">A&amp;E HD(A&amp;EHD)(207)</display-name>
+    <url>http://www.directv.com.ar</url>
+  </channel>
+  <channel id="A&amp;E (A&amp;E)(207)">
+    <display-name lang="es">A&amp;E (A&amp;E)(207)</display-name>
+    <url>http://www.directv.com.ar</url>
+  </channel>
+  <channel id="Sony Entertainment HD(SONYHD)(208)">
+    <display-name lang="es">Sony Entertainment HD(SONYHD)(208)</display-name>
+    <url>http://www.directv.com.ar</url>
+  </channel>
+  <channel id="Sony Entertainment(SONY)(208)">
+    <display-name lang="es">Sony Entertainment(SONY)(208)</display-name>
+    <url>http://www.directv.com.ar</url>
+  </channel>
+  <channel id="AXN HD(AXNHD)(209)">
+    <display-name lang="es">AXN HD(AXNHD)(209)</display-name>
+    <url>http://www.directv.com.ar</url>
+  </channel>
+  <channel id="AXN(AXN)(209)">
+    <display-name lang="es">AXN(AXN)(209)</display-name>
+    <url>http://www.directv.com.ar</url>
+  </channel>
+  <channel id="AMC HD(AMCHD)(210)">
+    <display-name lang="es">AMC HD(AMCHD)(210)</display-name>
+    <url>http://www.directv.com.ar</url>
+  </channel>
+  <channel id="AMC(AMC)(210)">
+    <display-name lang="es">AMC(AMC)(210)</display-name>
+    <url>http://www.directv.com.ar</url>
+  </channel>
+  <channel id="DIRECTV(DTV)(212)">
+    <display-name lang="es">DIRECTV(DTV)(212)</display-name>
+    <url>http://www.directv.com.ar</url>
+  </channel>
+  <channel id="TNT Series HD(TNTSHD)(213)">
+    <display-name lang="es">TNT Series HD(TNTSHD)(213)</display-name>
+    <url>http://www.directv.com.ar</url>
+  </channel>
+  <channel id="TNT Series(TNTS)(213)">
+    <display-name lang="es">TNT Series(TNTS)(213)</display-name>
+    <url>http://www.directv.com.ar</url>
+  </channel>
+</tv>
